@@ -18,3 +18,4 @@
  	<a href="https://steamcommunity.com/id/FElip3gcf14/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://open.spotify.com/user/22umbi5t5hnzoudlsy37brb3q?si=146ff368418b4699" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
  
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width-="190">
