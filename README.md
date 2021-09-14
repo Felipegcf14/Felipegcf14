@@ -15,7 +15,7 @@
 ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/felipe-gabriel-10/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipegabrielgcf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/felipegcf_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/id/FElip3gcf14/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://open.spotify.com/user/22umbi5t5hnzoudlsy37brb3q?si=146ff368418b4699" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
