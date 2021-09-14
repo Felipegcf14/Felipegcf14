@@ -1,6 +1,8 @@
 ## Olá Mundo, Eu sou Felipe <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="30">
 
+
 <img align="right" src=https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif width-="190"> <img height="20em" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif width-="190"> *Estudante de Análise e Desenvolvimento de Sistemas* 
+
 
 ##
 
@@ -17,5 +19,6 @@
   <a href="https://instagram.com/felipegcf_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/id/FElip3gcf14/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://open.spotify.com/user/22umbi5t5hnzoudlsy37brb3q?si=146ff368418b4699" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
- 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width-="190">
+ <div>
+
+<img  src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif >
